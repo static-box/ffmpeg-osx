@@ -1,6 +1,6 @@
 {
   "name": "@static-box/ffmpeg-osx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ffmpeg osx",
   "main": "dist/index.js",
   "scripts": {
